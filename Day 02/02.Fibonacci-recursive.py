@@ -1,5 +1,5 @@
 # series 0, 1, 1, 2, 3, 5, 8, 13, 21, 34
-# series (n-2) ,(n-1),n     
+# series (i-2) ,(i-1),i     
 
 def fibonacci(i):
         if i==0:
